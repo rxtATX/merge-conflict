@@ -1,3 +1,9 @@
 body {
   background: red;
 }
+
+main {
+  background-color: aqua;
+  color: orangered;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
