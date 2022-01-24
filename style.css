@@ -2,6 +2,11 @@ body {
   background: red;
 }
 
+p {
+  font-size: 18px;
+  color: green;
+}
+
 main {
   background-color: aqua;
   color: orangered;
